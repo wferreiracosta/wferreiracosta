@@ -6,5 +6,5 @@
 
 - :muscle: Skills:
   - Languages: Java, Javascript, HTML, CSS, SQL
-  - Database: MySQL
+  - Database: MySQL, Oracle
   - Frameworks/Technologies: Bootstrap, Spring Boot
