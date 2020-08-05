@@ -7,6 +7,6 @@
 
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=wferreiracosta&theme=tokyonight&show_icons=true" />
 
-:coffee: Languages: Java, Javascript, HTML, CSS, SQL<br/>
+:coffee: Programming language: Java, Javascript, HTML, CSS, SQL<br/>
 :floppy_disk: Database: MySQL, Oracle<br/>
 :computer: Frameworks/Technologies: Bootstrap, Spring Boot<br/>
