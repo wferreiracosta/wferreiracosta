@@ -7,7 +7,7 @@
 
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=wferreiracosta&theme=tokyonight&show_icons=true" />
 
-- :muscle: Skills:
-  - Languages: Java, Javascript, HTML, CSS, SQL
-  - Database: MySQL, Oracle
-  - Frameworks/Technologies: Bootstrap, Spring Boot
+#### :muscle: Skills:
+- Languages: Java, Javascript, HTML, CSS, SQL
+- Database: MySQL, Oracle
+- Frameworks/Technologies: Bootstrap, Spring Boot
