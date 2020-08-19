@@ -2,4 +2,4 @@
 
 :coffee: Languages: Java, Javascript, HTML, CSS, SQL<br/>
 :floppy_disk: Database: MySQL, Oracle<br/>
-:computer: Frameworks/Technologies: Bootstrap, Spring Boot, Maven<br/>
+:computer: Frameworks/Technologies: Bootstrap, Spring Boot, Maven, Git<br/>
