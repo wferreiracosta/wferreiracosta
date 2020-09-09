@@ -3,3 +3,6 @@
 :coffee: Languages: Java, Javascript, HTML, CSS, SQL<br/>
 :floppy_disk: Database: MySQL, Oracle<br/>
 :computer: Frameworks/Technologies: Bootstrap, Spring Boot, Maven, Git<br/>
+
+![Wesley github stats](https://github-readme-stats.vercel.app/api?username=wferreiracosta&show_icons=true&line_height=21)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wferreiracosta&layout=compact)
