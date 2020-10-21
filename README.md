@@ -4,5 +4,5 @@
 :floppy_disk: Database: MySQL, Oracle<br/>
 :computer: Frameworks/Technologies: Bootstrap, Spring Boot, Maven, Git<br/>
 
-![Wesley github stats](https://github-readme-stats.vercel.app/api?username=wferreiracosta&show_icons=true&line_height=21)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wferreiracosta&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=wferreiracosta&hide=issues&theme=cobalt&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wferreiracosta&layout=compact&theme=cobalt&langs_count=10)]
