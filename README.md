@@ -1,5 +1,7 @@
-<div style="display: inline-block"><br>
-  <a href="https://github.com/wferreiracosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wferreiracosta&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wferreiracosta&layout=compact&langs_count=16"/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wferreiracosta&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wferreiracosta&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wferreiracosta&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wferreiracosta&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wferreiracosta&theme=transparent&utcOffset=8)
