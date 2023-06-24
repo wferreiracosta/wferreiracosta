@@ -6,7 +6,7 @@ Estou sempre em busca de aprimoramento contínuo, acompanhando as últimas tend�
 
 Estou entusiasmado para enfrentar novos projetos e colaborar com equipes motivadas, contribuindo com minhas habilidades para criar soluções de software de qualidade.
 
-## Tech Stack:
+## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -20,10 +20,10 @@ Estou entusiasmado para enfrentar novos projetos e colaborar com equipes motivad
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Socials:
+## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wferreiracosta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wferreiracosta)
 
-## Github Stats:
+## Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wferreiracosta&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wferreiracosta&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wferreiracosta&theme=transparent)
