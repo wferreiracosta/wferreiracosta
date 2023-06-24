@@ -1,4 +1,4 @@
-# Hi there
+# Hey 👋 What's up?
 
 Desde cedo, despertei meu interesse pela área de tecnologia e desenvolvimento de software. Com o passar dos anos, aprimorei minhas habilidades e adquiri conhecimentos em diversas competências.
 
