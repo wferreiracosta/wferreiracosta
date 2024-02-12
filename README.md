@@ -16,13 +16,6 @@ Estou entusiasmado para enfrentar novos projetos e colaborar com equipes motivad
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wferreiracosta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wferreiracosta)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?logo=twitter&logoColor=white&link=https://twitter.com/wferreiracosta)](https://twitter.com/wferreiracosta)
-
-
-
 ## Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wferreiracosta&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wferreiracosta&theme=transparent)
