@@ -13,6 +13,3 @@ Estou entusiasmado para enfrentar novos projetos e colaborar com equipes motivad
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Github Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wferreiracosta&theme=transparent)
