@@ -1,10 +1,8 @@
 # Hey 👋 What's up?
 
-Desde cedo, despertei meu interesse pela área de tecnologia e desenvolvimento de software. Com o passar dos anos, aprimorei minhas habilidades e adquiri conhecimentos em diversas competências.
+Sou desenvolvedor de software com foco na criação de soluções escaláveis, resilientes e alinhadas às boas práticas. Tenho experiência sólida com Java, Spring Boot, Spring Batch, mensageria, microsserviços e bancos de dados, além de atuar em ambientes com Docker, Apache Kafka e AWS. Também aplico TDD e princípios de orientação a objetos para garantir código limpo, testável e de fácil manutenção.
 
-Estou sempre em busca de aprimoramento contínuo, acompanhando as últimas tendências e inovações na área de tecnologia. Acredito na importância de manter-me atualizado e em constante aprendizado para oferecer as melhores soluções aos desafios que encontro.
-
-Estou entusiasmado para enfrentar novos projetos e colaborar com equipes motivadas, contribuindo com minhas habilidades para criar soluções de software de qualidade.
+No meu dia a dia, valorizo adaptabilidade, pensamento crítico e resiliência, mantendo organização e ética profissional. Trabalho com metodologias ágeis como Scrum e Kanban e busco evolução contínua, sempre contribuindo para resultados de alta qualidade e para o sucesso da equipe e da organização.
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
